@@ -65,7 +65,7 @@ function ClienteCadastrarView() {
           />
         </div>
         <button type="submit" className="button">
-          Confirmar
+          Confirmar OK
         </button>
       </form>
     </div>
